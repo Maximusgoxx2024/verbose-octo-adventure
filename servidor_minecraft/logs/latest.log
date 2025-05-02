@@ -55,3 +55,12 @@ java.nio.file.NoSuchFileException: server.properties
 [23:00:41] [Server thread/INFO]: [Maximusgoxxd: Set own game mode to Creative Mode]
 [23:01:31] [Server thread/INFO]: Maximusgoxxd has made the advancement [Hot Stuff]
 [23:04:08] [Server thread/INFO]: [Maximusgoxxd: Set the time to 1000]
+[23:08:18] [Server thread/INFO]: <Maximusgoxxd> -163
+[23:08:21] [Server thread/INFO]: <Maximusgoxxd> -64
+[23:08:27] [Server thread/INFO]: <Maximusgoxxd> 107
+[23:12:51] [Server thread/INFO]: [Maximusgoxxd: Gamerule commandBlockOutput is now set to: true]
+[23:13:03] [Server thread/INFO]: [Maximusgoxxd: Gamerule commandBlockOutput is now set to: false]
+[23:13:44] [Server thread/INFO]: [Maximusgoxxd: Set own game mode to Survival Mode]
+[23:13:45] [Server thread/INFO]: [Maximusgoxxd: Set own game mode to Creative Mode]
+[23:13:48] [Server thread/INFO]: Maximusgoxxd lost connection: Disconnected
+[23:13:48] [Server thread/INFO]: Maximusgoxxd left the game
